@@ -6,7 +6,6 @@ A simple portfolio website introducing myself, my goals, hobbies and journey int
 
 * HTML
 * CSS
-* JavaScript
 
 ## Features
 
